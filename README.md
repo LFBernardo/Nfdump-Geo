@@ -1,5 +1,5 @@
 # Nfdump-Geo
-Basic script to output NFDUMP data into delimited format with most pertinent fields.
+Basic script to output NFDUMP data into delimited format with most pertinent fields to create a heatmap of destination IP's. The script can be easily modified by playing with the nfdump outputs and output formatting to produce various results. 
 
 The steps performed in the script as per following numbered items. 
 
