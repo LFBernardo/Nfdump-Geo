@@ -1,4 +1,4 @@
-# nfdump-filter
+# Nfdump-Geo
 Basic script to output NFDUMP data into CSV format with most pertinent fields.
 
 The steps performed in the script as per following numbered items. 
