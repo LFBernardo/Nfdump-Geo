@@ -9,6 +9,7 @@ set -x
 #clean temp files from previous runs
 truncate -s 0 websites.txt
 truncate -s 0 usites.txt
+truncate -s 0 geo-ip.txt
 
 #Set Path to your folder with nfdump files infront of the # in the line below 
 VarPath=  #<-----this is where you put your folder that needs to be analysed.
