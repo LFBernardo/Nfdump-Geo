@@ -14,4 +14,4 @@ for your own needs.
  6. The variable produced by action 5 is then combined with the IP and piped to file geo-ip.txt
 This file can be easily used in excel & calc (depending on lines) and visualisation tools for graphing and heatmapping.
 
-There is no license here. Just give props if you use it.
+
